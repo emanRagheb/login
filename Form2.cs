@@ -31,7 +31,7 @@ namespace WindowsFormsApplication3
             }
             else
             {
-                Gender = "Female";
+                Gender = "this is Female";
             }
 
             MessageBox.Show("Done");
